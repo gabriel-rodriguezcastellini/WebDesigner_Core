@@ -4,7 +4,7 @@
 	<ReportSections>
 		<ReportSection Name="ReportSection1">
 			<Body>
-				<Height>4.08333in</Height>
+				<Height>4.108cm</Height>
 				<ReportItems>
 					<Tablix Name="Tablix2">
 						<TablixBody>
@@ -32,7 +32,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -47,13 +46,11 @@
 											<CellContents>
 												<Textbox Name="Textbox13">
 													<Style>
-														<FontFamily>Arial</FontFamily>
 														<FontWeight>700</FontWeight>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -68,13 +65,11 @@
 											<CellContents>
 												<Textbox Name="Textbox15">
 													<Style>
-														<FontFamily>Arial</FontFamily>
 														<FontWeight>700</FontWeight>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -98,7 +93,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -113,12 +107,10 @@
 											<CellContents>
 												<Textbox Name="Qty">
 													<Style>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -138,7 +130,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -159,12 +150,10 @@
 												<Textbox Name="Textbox25">
 													<Style>
 														<BackgroundColor>LightGrey</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -180,12 +169,10 @@
 												<Textbox Name="Textbox26">
 													<Style>
 														<BackgroundColor>LightGrey</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -206,7 +193,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -227,12 +213,10 @@
 												<Textbox Name="Textbox30">
 													<Style>
 														<BackgroundColor>Orange</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -248,12 +232,10 @@
 												<Textbox Name="Textbox31">
 													<Style>
 														<BackgroundColor>Orange</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -274,7 +256,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -295,12 +276,10 @@
 												<Textbox Name="Textbox35">
 													<Style>
 														<BackgroundColor>LightBlue</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -316,12 +295,10 @@
 												<Textbox Name="Textbox36">
 													<Style>
 														<BackgroundColor>LightBlue</BackgroundColor>
-														<FontFamily>Arial</FontFamily>
 														<PaddingBottom>2pt</PaddingBottom>
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -342,7 +319,6 @@
 														<PaddingLeft>2pt</PaddingLeft>
 														<PaddingRight>2pt</PaddingRight>
 														<PaddingTop>2pt</PaddingTop>
-														<WritingMode>lr-tb</WritingMode>
 														<Border>
 															<Style>Solid</Style>
 															<Color>LightGrey</Color>
@@ -372,13 +348,11 @@
 										<CellContents>
 											<Textbox Name="Textbox19">
 												<Style>
-													<FontFamily>Arial</FontFamily>
 													<FontWeight>700</FontWeight>
 													<PaddingBottom>2pt</PaddingBottom>
 													<PaddingLeft>2pt</PaddingLeft>
 													<PaddingRight>2pt</PaddingRight>
 													<PaddingTop>2pt</PaddingTop>
-													<WritingMode>lr-tb</WritingMode>
 													<Border>
 														<Style>Solid</Style>
 														<Color>LightGrey</Color>
@@ -396,13 +370,11 @@
 												<CellContents>
 													<Textbox Name="Textbox21">
 														<Style>
-															<FontFamily>Arial</FontFamily>
 															<FontWeight>700</FontWeight>
 															<PaddingBottom>2pt</PaddingBottom>
 															<PaddingLeft>2pt</PaddingLeft>
 															<PaddingRight>2pt</PaddingRight>
 															<PaddingTop>2pt</PaddingTop>
-															<WritingMode>lr-tb</WritingMode>
 															<Border>
 																<Style>Solid</Style>
 																<Color>LightGrey</Color>
@@ -413,9 +385,6 @@
 													</Textbox>
 												</CellContents>
 											</TablixHeader>
-											<TablixMembers>
-												<TablixMember />
-											</TablixMembers>
 										</TablixMember>
 									</TablixMembers>
 									<KeepWithGroup>After</KeepWithGroup>
@@ -437,13 +406,11 @@
 										<CellContents>
 											<Textbox Name="Date1">
 												<Style>
-													<FontFamily>Arial</FontFamily>
 													<Format>d MMM yyyy</Format>
 													<PaddingBottom>2pt</PaddingBottom>
 													<PaddingLeft>2pt</PaddingLeft>
 													<PaddingRight>2pt</PaddingRight>
 													<PaddingTop>2pt</PaddingTop>
-													<WritingMode>lr-tb</WritingMode>
 													<Border>
 														<Style>Solid</Style>
 														<Color>LightGrey</Color>
@@ -472,12 +439,10 @@
 												<CellContents>
 													<Textbox Name="Order1">
 														<Style>
-															<FontFamily>Arial</FontFamily>
 															<PaddingBottom>2pt</PaddingBottom>
 															<PaddingLeft>2pt</PaddingLeft>
 															<PaddingRight>2pt</PaddingRight>
 															<PaddingTop>2pt</PaddingTop>
-															<WritingMode>lr-tb</WritingMode>
 															<Border>
 																<Style>Solid</Style>
 																<Color>LightGrey</Color>
@@ -504,12 +469,10 @@
 													<Textbox Name="Textbox29">
 														<Style>
 															<BackgroundColor>Orange</BackgroundColor>
-															<FontFamily>Arial</FontFamily>
 															<PaddingBottom>2pt</PaddingBottom>
 															<PaddingLeft>2pt</PaddingLeft>
 															<PaddingRight>2pt</PaddingRight>
 															<PaddingTop>2pt</PaddingTop>
-															<WritingMode>lr-tb</WritingMode>
 															<Border>
 																<Style>Solid</Style>
 																<Color>LightGrey</Color>
@@ -531,12 +494,10 @@
 											<Textbox Name="Textbox33">
 												<Style>
 													<BackgroundColor>LightBlue</BackgroundColor>
-													<FontFamily>Arial</FontFamily>
 													<PaddingBottom>2pt</PaddingBottom>
 													<PaddingLeft>2pt</PaddingLeft>
 													<PaddingRight>2pt</PaddingRight>
 													<PaddingTop>2pt</PaddingTop>
-													<WritingMode>lr-tb</WritingMode>
 													<Border>
 														<Style>Solid</Style>
 														<Color>LightGrey</Color>
@@ -555,12 +516,10 @@
 													<Textbox Name="Textbox34">
 														<Style>
 															<BackgroundColor>LightBlue</BackgroundColor>
-															<FontFamily>Arial</FontFamily>
 															<PaddingBottom>2pt</PaddingBottom>
 															<PaddingLeft>2pt</PaddingLeft>
 															<PaddingRight>2pt</PaddingRight>
 															<PaddingTop>2pt</PaddingTop>
-															<WritingMode>lr-tb</WritingMode>
 															<Border>
 																<Style>Solid</Style>
 																<Color>LightGrey</Color>
@@ -577,16 +536,10 @@
 								</TablixMember>
 							</TablixMembers>
 						</TablixRowHierarchy>
-						<Top>2.72203cm</Top>
-						<Left>3.40995cm</Left>
-						<Width>13.86734cm</Width>
+						<Top>1.108cm</Top>
+						<Left>1.346cm</Left>
+						<Width>13.867cm</Width>
 						<Height>3cm</Height>
-						<Style>
-							<Border>
-								<Style>None</Style>
-							</Border>
-						</Style>
-						<DataSetName>AdventureWorksDataset</DataSetName>
 					</Tablix>
 				</ReportItems>
 			</Body>
@@ -599,17 +552,13 @@
 				<LeftMargin>2cm</LeftMargin>
 				<RightMargin>2cm</RightMargin>
 			</Page>
-			<Width>9.52059in</Width>
+			<Width>15.213cm</Width>
 			<DataElementName>ReportSection1</DataElementName>
 		</ReportSection>
 	</ReportSections>
 	<DataSources>
-		<DataSource Name="AdventureWorks2022">
-			<ConnectionProperties>
-				<ConnectString>Data Source=.\SQL2023;Initial Catalog=AdventureWorks2022;Integrated Security=True;TrustServerCertificate=True</ConnectString>
-				<DataProvider>SQL</DataProvider>
-				<IntegratedSecurity>true</IntegratedSecurity>
-			</ConnectionProperties>
+		<DataSource Name="DataSource_AdventureWorks2022">
+			<DataSourceReference>C:\Users\gabri\source\repos\WebDesigner_Core\resources\DataSource_AdventureWorks2022.rdsx</DataSourceReference>
 		</DataSource>
 	</DataSources>
 	<DataSets>
@@ -635,28 +584,26 @@
 				</Field>
 			</Fields>
 			<Query>
-				<CommandText>SELECT
-   soh.OrderDate AS [Date],
-   soh.SalesOrderNumber AS [Order],
-   pps.Name AS [Subcat],
-   pp.Name as [Product],
-   SUM(sd.OrderQty) AS [Qty],
-   SUM(sd.LineTotal) AS [LineTotal]
-FROM Sales.SalesPerson sp
-INNER JOIN Sales.SalesOrderHeader AS soh
-      ON sp.BusinessEntityID = soh.SalesPersonID
-   INNER JOIN Sales.SalesOrderDetail AS sd
-      ON sd.SalesOrderID = soh.SalesOrderID
-   INNER JOIN Production.Product AS pp
-      ON sd.ProductID = pp.ProductID
-   INNER JOIN Production.ProductSubcategory AS pps
-      ON pp.ProductSubcategoryID = pps.ProductSubcategoryID
-   INNER JOIN Production.ProductCategory AS ppc
-      ON ppc.ProductCategoryID = pps.ProductCategoryID
-GROUP BY ppc.Name, soh.OrderDate, soh.SalesOrderNumber, pps.Name, pp.Name,soh.SalesPersonID  
-HAVING ppc.Name = 'Clothing'</CommandText>
-				<DataSourceName>AdventureWorks2022</DataSourceName>
+				<CommandText>select soh.OrderDate as Date, soh.SalesOrderNumber as [Order], pps.Name as Subcat, pp.Name as Product, SUM(sd.OrderQty) as Qty, SUM(sd.LineTotal) as LineTotal
+from Sales.SalesPerson sp inner join Sales.SalesOrderHeader soh on sp.BusinessEntityID = soh.SalesPersonID inner join Sales.SalesOrderDetail sd on sd.SalesOrderID = soh.SalesOrderID inner join Production.Product pp on sd.ProductID = pp.ProductID inner join Production.ProductSubcategory pps on pp.ProductSubcategoryID = pps.ProductSubcategoryID inner join Production.ProductCategory ppc on ppc.ProductCategoryID = pps.ProductCategoryID
+group by ppc.Name, soh.OrderDate, soh.SalesOrderNumber, pps.Name, pp.Name, soh.SalesPersonID
+having ppc.Name = 'Clothing'</CommandText>
+				<DataSourceName>DataSource_AdventureWorks2022</DataSourceName>
 			</Query>
 		</DataSet>
 	</DataSets>
+	<CustomProperties>
+		<CustomProperty>
+			<Name>DisplayType</Name>
+			<Value>Page</Value>
+		</CustomProperty>
+		<CustomProperty>
+			<Name>SizeType</Name>
+			<Value>Default</Value>
+		</CustomProperty>
+		<CustomProperty>
+			<Name>PaperOrientation</Name>
+			<Value>Portrait</Value>
+		</CustomProperty>
+	</CustomProperties>
 </Report>

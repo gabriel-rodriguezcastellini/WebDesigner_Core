@@ -69,7 +69,10 @@
             editor: { showGrid: false },
             data: {
                 dataSets: { canModify: true },
-                dataSources: { canModify: true }
+                dataSources: {
+                    canModify: true,
+                    shared: { enabled: true }
+                }
             },
             preview: {
                 openViewer: (options) => {

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>AdventureWorks2022</Name>
+    <ConnectionProperties>
+        <ConnectString>Data Source=LAPTOP-75PLAUOF;Initial Catalog=AdventureWorks2022;Integrated Security=True;TrustServerCertificate=True</ConnectString>
+        <Extension>SQL</Extension>
+        <IntegratedSecurity>true</IntegratedSecurity>
+    </ConnectionProperties>
+</RptDataSource>
